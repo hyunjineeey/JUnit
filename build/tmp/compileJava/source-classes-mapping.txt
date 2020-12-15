@@ -1,0 +1,10 @@
+edu/umn/cs/csci3081w/lab4/MyStringInterface.java
+ edu.umn.cs.csci3081w.lab4.MyStringInterface
+edu/umn/cs/csci3081w/lab4/MyIndexOutOfBoundsException.java
+ edu.umn.cs.csci3081w.lab4.MyIndexOutOfBoundsException
+edu/umn/cs/csci3081w/lab4/MyString.java
+ edu.umn.cs.csci3081w.lab4.MyString
+edu/umn/cs/csci3081w/lab4/EnrollManager.java
+ edu.umn.cs.csci3081w.lab4.EnrollManager
+edu/umn/cs/csci3081w/lab4/Student.java
+ edu.umn.cs.csci3081w.lab4.Student

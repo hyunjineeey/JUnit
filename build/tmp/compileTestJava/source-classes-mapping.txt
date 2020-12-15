@@ -1,0 +1,6 @@
+edu/umn/cs/csci3081w/lab4/MyStringTest.java
+ edu.umn.cs.csci3081w.lab4.MyStringTest
+edu/umn/cs/csci3081w/lab4/StudentTest.java
+ edu.umn.cs.csci3081w.lab4.StudentTest
+edu/umn/cs/csci3081w/lab4/EnrollManagerTest.java
+ edu.umn.cs.csci3081w.lab4.EnrollManagerTest
