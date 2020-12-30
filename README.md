@@ -1,6 +1,6 @@
 # IDEA and JUnit
 
-At a high level, to complete this lab assignment you will need to perform a debugging activity using IntelliJ IDEA and implement some JUnit tests. Specifically, you must complete the following tasks:
+Performed a debugging activity using IntelliJ IDEA and implemented some JUnit tests. Specifically, I completed the following tasks:
 
 1. Open a terminal window
 1. Clone REPO
