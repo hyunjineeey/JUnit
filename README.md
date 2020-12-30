@@ -1,6 +1,7 @@
 # IDEA and JUnit
 
-Performed a debugging activity using IntelliJ IDEA and implemented some JUnit tests. Specifically, I completed the following tasks:
+Performed a debugging activity using IntelliJ IDEA and implemented some JUnit tests.  
+Specifically, I completed the following tasks:
 
 1. Open a terminal window
 1. Clone REPO
